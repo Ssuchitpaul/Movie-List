@@ -5,7 +5,7 @@ HOW TO RUN
 
 1.run the movies.mysql in mysqlworkbench.to create a new table called "movies" in the database.
 
-2. update the confi.js with the details to make connection.
+2.update the confi.js with the details to make connection.
    
 3.npm install.
 
